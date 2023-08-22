@@ -1,2 +1,2 @@
 # Super-demon-system
-Serialized web novels
+web novels
